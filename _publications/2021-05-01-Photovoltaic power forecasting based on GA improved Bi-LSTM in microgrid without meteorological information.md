@@ -3,10 +3,8 @@ Title: "Photovoltaic power forecasting based on GA improved Bi-LSTM in microgrid
 collection: publications
 category: manuscripts
 permalink: /publication/2021-05-01-photovoltaic-power-forecasting
-excerpt: 'This paper discusses the use of GA improved Bi-LSTM for photovoltaic power forecasting in microgrids without the need for meteorological data.'
 date: 2021-05-01
 venue: 'Energy'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.energy.2021.120908'
 citation: 'Hao Zhen, D Niu, K Wang, Y Shi, Z Ji, X Xu. (2021). "Photovoltaic power forecasting based on GA improved Bi-LSTM in microgrid without meteorological information." <i>Energy</i>. 231, 120908.'
 ---
