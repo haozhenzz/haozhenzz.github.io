@@ -21,7 +21,7 @@ repository               : "haozhenzz/haozhenzz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilev1.png"
+  avatar           : "profile.png"
   name             : "Hao Zhen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D.Student in Civil and Environmental Engineering"
